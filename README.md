@@ -11,6 +11,7 @@ Program:
 ## Technologies used
 1. Java
 2. IntelliJ IDEA
+3. Maven
 
 ---
 ## License & copyright
